@@ -1,4 +1,4 @@
-# Tic-Tac-toe Game
+# Tic-Tac-Toe Game
 Create a webpage that allows user to play the multiplayer tic tac toe game. The webpage should include the following elements:
 An outer div with class container that contains all the content of the page.
 First user is provided by two input boxes for names of both the users with id player-1 and player-2 and a submit button with id submit.
